@@ -9,4 +9,6 @@ This repository contains security analysis and helpful tools created with Python
 
 ## Analysis
 
-Coming soon.
+| # | Name          | Category          | Last edited  |
+| - | :------------- |:-------------:| ------------:|
+| 1 | [EMQQ analysis](https://github.com/luisocam/finance-analysis/blob/master/analysis/001-EMQQ_ETF_analysis.ipynb)      | ETF | August, 2018 |
